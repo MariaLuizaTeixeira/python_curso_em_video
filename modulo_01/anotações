@@ -1,0 +1,20 @@
+tudo são objetos;
++ é usado para concatenar apenas em aspas, fora disso usa-se vírgula;
+int - inteiro;
+float - racionais
+bool - true/ false
+str - entre aspas
+print(n.isnumeric()) - se é número
+print(n.isnumeric()) - se é letra
+potencia - **
+divisão inteira - //
+ordem de precedencia
+1 ()
+2 **
+3 *, /, //, %
+4 +, -
+,  end = ' ' - não quebra linha entre dois prints
+import biblioteca  - importa todas as funcionalidades
+from biblioteca import funcionalidade 
+phyton.org>docs>library reference para ver as bibliotecas
+pypi para bibliotecas da comunidade
