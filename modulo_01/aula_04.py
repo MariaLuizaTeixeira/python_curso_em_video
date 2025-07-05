@@ -48,5 +48,5 @@ print('A ordem de apresentação é: {0}.'.format(lista))
 
 # DESAFIO 21
 
-playsound.playsound(certo.mp3)
+playsound.playsound('certo.mp3')
 print('Você acertou!')
