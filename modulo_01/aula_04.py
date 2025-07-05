@@ -22,7 +22,7 @@ print('Dado o valor dos catetos, o valor da hipotenusa é {0}'.format(hipotenusa
 # DESAFIO 18
 
 angulo = int(input('Insira o valor do ângulo: '))
-print('Como o ângulo é de {0} graus, o seno é {1}, o cosseno é {2}, e a tangente é {3}'.format(angulo, math.sin(math.radians(angulo)), math.cos(math.radians(angulo)), math.tan(math.radians(angulo)))
+print('Como o ângulo é de {0} graus, o seno é {1}, o cosseno é {2}, e a tangente é {3}'.format(angulo, math.sin(math.radians(angulo)), math.cos(math.radians(angulo)), math.tan(math.radians(angulo))))
 
 # DESAFIO 19
 
