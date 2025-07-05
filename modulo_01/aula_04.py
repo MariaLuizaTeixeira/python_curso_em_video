@@ -1,5 +1,7 @@
 import math
 import random
+import playsound
+
 numero = int(input('Digite um número: '))
 raiz = math.sqrt(numero)
 print('A raiz quadrada de {0} é {1}.'.format(numero, math.ceil(raiz)))
@@ -44,3 +46,7 @@ lista = [a1, a2, a3, a4]
 random.shuffle(lista)
 print('A ordem de apresentação é: {0}.'.format(lista))
 
+# DESAFIO 21
+
+playsound.playsound(certo.mp3)
+print('Você acertou!')
